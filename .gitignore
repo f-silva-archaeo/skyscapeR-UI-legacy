@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 archive/
+rsconnect/
+skyscapeR-legacy.Rproj
